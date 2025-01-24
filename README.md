@@ -15,3 +15,5 @@ It works on OpenFOAM-2.2.0.
 ```bash
     git clone https://github.com/varaprasadgudlavalleti/DROP_SUPERHYDROPHOBIC_WEDGE/
 ```
+
+## Citation
