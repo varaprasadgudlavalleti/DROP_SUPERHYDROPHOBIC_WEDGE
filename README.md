@@ -15,3 +15,6 @@ It works on OpenFOAM-2.2.0.
 ```bash
     git clone https://github.com/varaprasadgudlavalleti/DROP_WEDGE/
 ```
+
+## Citation
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14736529.svg)](https://doi.org/10.5281/zenodo.14736529)
